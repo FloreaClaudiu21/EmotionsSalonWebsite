@@ -617,6 +617,12 @@ span.checkbox {
 	overflow: hidden;
 	cursor: pointer;
 }
+.contact-info-link {
+	font-size: 1.3rem !important;
+}
+.terms {
+	font-size: 1.3rem !important;
+}
 .checkbox svg {
 	position: absolute;
 	z-index: 3;
