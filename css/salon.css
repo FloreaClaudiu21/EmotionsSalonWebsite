@@ -1042,16 +1042,6 @@ footer .container > *:not(:last-child) {
 .swiper-container-3d .swiper-wrapper {
 	transform-style: preserve-3d;
 }
-.no-select {
-	-webkit-user-select: none;
-	-khtml-user-select: none;
-	-moz-user-select: none;
-	-o-user-select: none;
-	user-select: none;
-}
-.no-drag {
-	pointer-events: none;
-}
 .swiper-container-3d .swiper-slide-shadow-bottom,
 .swiper-container-3d .swiper-slide-shadow-left,
 .swiper-container-3d .swiper-slide-shadow-right,
